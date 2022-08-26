@@ -1,6 +1,6 @@
 ### Hi everyone
 
-You can me Rock  or  just call me Chinese name Liyi, both ok.  
+My name is Rock  ,  Chinese name is  Liyi,  you can call me Rock or  Liyi  both ok.  
 
 
 
