@@ -10,7 +10,7 @@ My name is Rock, Chinese name is Liyi, you can call me Rock or Liyi, both ok.
 - 🤔 I have been stuyding  decentralized database domain since July,2021  
 - 💬 I’m also interested in other domain, such as Microservice、Distributed system、Consensus algorithm 、Block chian、IPFS、Big data
 - 📫 How to reach me: if you have any question or idea, Welcome to contact me by email, my email account is `rock.li.china@gmail.com`
-- ⚡ Usually used languages: 
+- ⚡ Usually use languages: 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
