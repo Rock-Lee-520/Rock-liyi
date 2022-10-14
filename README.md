@@ -7,7 +7,7 @@ My name is Rock, Chinese name is Liyi.
 - 🔭 I  focus on  decentralized database domain, and look for  some people who have similar ideals and beliefs.
 - 👯 I’m  one of the authors of the  decentralized database  P2PDB
 - 🤔 I have been studying decentralized database domain since July,2021  
-- 💬 I’m also interested in another domain, such as  Microservice,Distributed system,Consensus algorithm, Block chian,IPFS,Big data
+- 💬 I’m also interested in another domains, such as  Microservice,Distributed system,Consensus algorithm, Block chian,IPFS,Big data
 - 📫 How to reach me: if you have any question or idea, welcome to contact me by email, my email account is `rock.li.china@gmail.com`
 - ⚡ Languages:
 
